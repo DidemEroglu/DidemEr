@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DidemEr
+- 👋 Hi, I’m @DidemEroglu
 - 👀 I’m interested in HTML & CSS & JS
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on FrontEnd Developing
